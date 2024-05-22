@@ -43,7 +43,7 @@
     "contributor": "git-contributor"
   },
   "config": {
-    "defaultVersion": "114.0.5735.90"
+    "defaultVersion": "114"
   },
   "husky": {
     "hooks": {
